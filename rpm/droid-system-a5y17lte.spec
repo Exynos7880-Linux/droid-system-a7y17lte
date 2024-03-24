@@ -1,5 +1,5 @@
-%define rpm_device a5y17lte
-%define device a5y17lte
+%define rpm_device a7y17lte
+%define device a7y17lte
 %define multiple_rpms 1
 
 %define dsd_path ./
